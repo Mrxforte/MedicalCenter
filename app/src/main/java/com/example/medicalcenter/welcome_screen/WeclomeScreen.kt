@@ -1,4 +1,4 @@
-package com.example.medicalcenter
+package com.example.medicalcenter.welcome_screen
 
 import android.content.Intent
 import android.os.Bundle
@@ -7,6 +7,8 @@ import androidx.activity.enableEdgeToEdge
 import androidx.appcompat.app.AppCompatActivity
 import androidx.core.view.ViewCompat
 import androidx.core.view.WindowInsetsCompat
+import com.example.medicalcenter.R
+import com.example.medicalcenter.walk_through_screens.WalkThroughScreen1
 
 class WeclomeScreen : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

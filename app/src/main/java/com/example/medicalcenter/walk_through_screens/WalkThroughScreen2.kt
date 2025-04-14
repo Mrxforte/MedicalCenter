@@ -1,22 +1,21 @@
-package com.example.medicalcenter
+package com.example.medicalcenter.walk_through_screens
 
 import android.content.Intent
 import android.os.Bundle
-import android.os.Handler
-import android.os.Looper
-import android.view.animation.AnimationUtils
 import androidx.activity.enableEdgeToEdge
 import androidx.appcompat.app.AppCompatActivity
 import androidx.core.view.ViewCompat
 import androidx.core.view.WindowInsetsCompat
-import com.example.medicalcenter.databinding.ActivitySplashScreenBinding
+import com.example.medicalcenter.R
+import com.example.medicalcenter.databinding.ActivityWalkThroughScreen1Binding
+import com.example.medicalcenter.databinding.ActivityWalkThroughScreen2Binding
 
-class SplashScreen : AppCompatActivity() {
-    private lateinit var binding: ActivitySplashScreenBinding
+class WalkThroughScreen2 : AppCompatActivity() {
+    private lateinit var binding: ActivityWalkThroughScreen2Binding
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         enableEdgeToEdge()
-        binding = ActivitySplashScreenBinding.inflate(layoutInflater)
+        binding = ActivityWalkThroughScreen2Binding.inflate(layoutInflater)
         setContentView(binding.root)
         ViewCompat.setOnApplyWindowInsetsListener(findViewById(R.id.main)) { v, insets ->
             val systemBars = insets.getInsets(WindowInsetsCompat.Type.systemBars())
@@ -27,13 +26,12 @@ class SplashScreen : AppCompatActivity() {
     }
 
     private fun loadUI() {
-        val animation = AnimationUtils.loadAnimation(this, R.anim.rotate_animation)
-        binding.cpbar.animation = animation
-        Handler().postDelayed({
-            var intent = Intent(this, WeclomeScreen::class.java)
+        binding.nextButton.setOnClickListener {
+//          navigates to next screen
+            val intent = Intent(this, WalkThroughScreen3::class.java)
             startActivity(intent)
-        }, 3000)
+
+        }
 
     }
-
 }
