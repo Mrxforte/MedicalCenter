@@ -1,0 +1,278 @@
+[
+    {
+        "merged": "C:\\Users\\Azamat\\.gradle\\daemon\\8.10.2\\com.example.medicalcenter.app-debug-33:\\drawable_login_google_rounded_button.png.flat",
+        "source": "C:\\Users\\Azamat\\.gradle\\daemon\\8.10.2\\com.example.medicalcenter.app-main-35:\\drawable\\login_google_rounded_button.png"
+    },
+    {
+        "merged": "C:\\Users\\Azamat\\.gradle\\daemon\\8.10.2\\com.example.medicalcenter.app-debug-33:\\drawable_login_facebook_rounded_button.png.flat",
+        "source": "C:\\Users\\Azamat\\.gradle\\daemon\\8.10.2\\com.example.medicalcenter.app-main-35:\\drawable\\login_facebook_rounded_button.png"
+    },
+    {
+        "merged": "C:\\Users\\Azamat\\.gradle\\daemon\\8.10.2\\com.example.medicalcenter.app-debug-33:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Azamat\\.gradle\\daemon\\8.10.2\\com.example.medicalcenter.app-main-35:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Azamat\\.gradle\\daemon\\8.10.2\\com.example.medicalcenter.app-debug-33:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Azamat\\.gradle\\daemon\\8.10.2\\com.example.medicalcenter.app-main-35:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Azamat\\.gradle\\daemon\\8.10.2\\com.example.medicalcenter.app-debug-33:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Azamat\\.gradle\\daemon\\8.10.2\\com.example.medicalcenter.app-main-35:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Azamat\\.gradle\\daemon\\8.10.2\\com.example.medicalcenter.app-debug-33:\\drawable_logo_mini.png.flat",
+        "source": "C:\\Users\\Azamat\\.gradle\\daemon\\8.10.2\\com.example.medicalcenter.app-main-35:\\drawable\\logo_mini.png"
+    },
+    {
+        "merged": "C:\\Users\\Azamat\\.gradle\\daemon\\8.10.2\\com.example.medicalcenter.app-debug-33:\\drawable_welcome_text_with_smile.png.flat",
+        "source": "C:\\Users\\Azamat\\.gradle\\daemon\\8.10.2\\com.example.medicalcenter.app-main-35:\\drawable\\welcome_text_with_smile.png"
+    },
+    {
+        "merged": "com.example.medicalcenter.app-debug-33:/layout_activity_walk_through_screen1.xml.flat",
+        "source": "com.example.medicalcenter.app-main-35:/layout/activity_walk_through_screen1.xml"
+    },
+    {
+        "merged": "C:\\Users\\Azamat\\.gradle\\daemon\\8.10.2\\com.example.medicalcenter.app-debug-33:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Azamat\\.gradle\\daemon\\8.10.2\\com.example.medicalcenter.app-main-35:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Azamat\\.gradle\\daemon\\8.10.2\\com.example.medicalcenter.app-debug-33:\\drawable_login_apple_rounded_button.png.flat",
+        "source": "C:\\Users\\Azamat\\.gradle\\daemon\\8.10.2\\com.example.medicalcenter.app-main-35:\\drawable\\login_apple_rounded_button.png"
+    },
+    {
+        "merged": "C:\\Users\\Azamat\\.gradle\\daemon\\8.10.2\\com.example.medicalcenter.app-debug-33:\\drawable_login_via_apple.png.flat",
+        "source": "C:\\Users\\Azamat\\.gradle\\daemon\\8.10.2\\com.example.medicalcenter.app-main-35:\\drawable\\login_via_apple.png"
+    },
+    {
+        "merged": "C:\\Users\\Azamat\\.gradle\\daemon\\8.10.2\\com.example.medicalcenter.app-debug-33:\\mipmap-hdpi_logo.png.flat",
+        "source": "C:\\Users\\Azamat\\.gradle\\daemon\\8.10.2\\com.example.medicalcenter.app-main-35:\\mipmap-hdpi\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Azamat\\.gradle\\daemon\\8.10.2\\com.example.medicalcenter.app-debug-33:\\drawable_ws1.png.flat",
+        "source": "C:\\Users\\Azamat\\.gradle\\daemon\\8.10.2\\com.example.medicalcenter.app-main-35:\\drawable\\ws1.png"
+    },
+    {
+        "merged": "C:\\Users\\Azamat\\.gradle\\daemon\\8.10.2\\com.example.medicalcenter.app-debug-33:\\drawable_text2.png.flat",
+        "source": "C:\\Users\\Azamat\\.gradle\\daemon\\8.10.2\\com.example.medicalcenter.app-main-35:\\drawable\\text2.png"
+    },
+    {
+        "merged": "com.example.medicalcenter.app-debug-33:/layout_activity_splash_screen.xml.flat",
+        "source": "com.example.medicalcenter.app-main-35:/layout/activity_splash_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\Azamat\\.gradle\\daemon\\8.10.2\\com.example.medicalcenter.app-debug-33:\\drawable_checkbox_checked.png.flat",
+        "source": "C:\\Users\\Azamat\\.gradle\\daemon\\8.10.2\\com.example.medicalcenter.app-main-35:\\drawable\\checkbox_checked.png"
+    },
+    {
+        "merged": "C:\\Users\\Azamat\\.gradle\\daemon\\8.10.2\\com.example.medicalcenter.app-debug-33:\\layout_activity_walk_through_screen1.xml.flat",
+        "source": "C:\\Users\\Azamat\\.gradle\\daemon\\8.10.2\\com.example.medicalcenter.app-main-35:\\layout\\activity_walk_through_screen1.xml"
+    },
+    {
+        "merged": "C:\\Users\\Azamat\\.gradle\\daemon\\8.10.2\\com.example.medicalcenter.app-debug-33:\\drawable_ws3.png.flat",
+        "source": "C:\\Users\\Azamat\\.gradle\\daemon\\8.10.2\\com.example.medicalcenter.app-main-35:\\drawable\\ws3.png"
+    },
+    {
+        "merged": "C:\\Users\\Azamat\\.gradle\\daemon\\8.10.2\\com.example.medicalcenter.app-debug-33:\\drawable_arrow_left.jpg.flat",
+        "source": "C:\\Users\\Azamat\\.gradle\\daemon\\8.10.2\\com.example.medicalcenter.app-main-35:\\drawable\\arrow_left.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Azamat\\.gradle\\daemon\\8.10.2\\com.example.medicalcenter.app-debug-33:\\drawable_eye.png.flat",
+        "source": "C:\\Users\\Azamat\\.gradle\\daemon\\8.10.2\\com.example.medicalcenter.app-main-35:\\drawable\\eye.png"
+    },
+    {
+        "merged": "C:\\Users\\Azamat\\.gradle\\daemon\\8.10.2\\com.example.medicalcenter.app-debug-33:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Azamat\\.gradle\\daemon\\8.10.2\\com.example.medicalcenter.app-main-35:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Azamat\\.gradle\\daemon\\8.10.2\\com.example.medicalcenter.app-debug-33:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Azamat\\.gradle\\daemon\\8.10.2\\com.example.medicalcenter.app-main-35:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Azamat\\.gradle\\daemon\\8.10.2\\com.example.medicalcenter.app-debug-33:\\drawable_checkbox_unchecked.png.flat",
+        "source": "C:\\Users\\Azamat\\.gradle\\daemon\\8.10.2\\com.example.medicalcenter.app-main-35:\\drawable\\checkbox_unchecked.png"
+    },
+    {
+        "merged": "C:\\Users\\Azamat\\.gradle\\daemon\\8.10.2\\com.example.medicalcenter.app-debug-33:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Azamat\\.gradle\\daemon\\8.10.2\\com.example.medicalcenter.app-main-35:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Azamat\\.gradle\\daemon\\8.10.2\\com.example.medicalcenter.app-debug-33:\\layout_activity_weclome_screen.xml.flat",
+        "source": "C:\\Users\\Azamat\\.gradle\\daemon\\8.10.2\\com.example.medicalcenter.app-main-35:\\layout\\activity_weclome_screen.xml"
+    },
+    {
+        "merged": "com.example.medicalcenter.app-debug-33:/layout_activity_create_account_screen.xml.flat",
+        "source": "com.example.medicalcenter.app-main-35:/layout/activity_create_account_screen.xml"
+    },
+    {
+        "merged": "com.example.medicalcenter.app-debug-33:/layout_activity_sign_in_screen.xml.flat",
+        "source": "com.example.medicalcenter.app-main-35:/layout/activity_sign_in_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\Azamat\\.gradle\\daemon\\8.10.2\\com.example.medicalcenter.app-debug-33:\\drawable_login_via_facebook.png.flat",
+        "source": "C:\\Users\\Azamat\\.gradle\\daemon\\8.10.2\\com.example.medicalcenter.app-main-35:\\drawable\\login_via_facebook.png"
+    },
+    {
+        "merged": "C:\\Users\\Azamat\\.gradle\\daemon\\8.10.2\\com.example.medicalcenter.app-debug-33:\\drawable_text1.png.flat",
+        "source": "C:\\Users\\Azamat\\.gradle\\daemon\\8.10.2\\com.example.medicalcenter.app-main-35:\\drawable\\text1.png"
+    },
+    {
+        "merged": "C:\\Users\\Azamat\\.gradle\\daemon\\8.10.2\\com.example.medicalcenter.app-debug-33:\\drawable_walk_through_bg1.png.flat",
+        "source": "C:\\Users\\Azamat\\.gradle\\daemon\\8.10.2\\com.example.medicalcenter.app-main-35:\\drawable\\walk_through_bg1.png"
+    },
+    {
+        "merged": "C:\\Users\\Azamat\\.gradle\\daemon\\8.10.2\\com.example.medicalcenter.app-debug-33:\\mipmap-xhdpi_logo.png.flat",
+        "source": "C:\\Users\\Azamat\\.gradle\\daemon\\8.10.2\\com.example.medicalcenter.app-main-35:\\mipmap-xhdpi\\logo.png"
+    },
+    {
+        "merged": "com.example.medicalcenter.app-debug-33:/layout_activity_weclome_screen.xml.flat",
+        "source": "com.example.medicalcenter.app-main-35:/layout/activity_weclome_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\Azamat\\.gradle\\daemon\\8.10.2\\com.example.medicalcenter.app-debug-33:\\drawable_cprogressbar.png.flat",
+        "source": "C:\\Users\\Azamat\\.gradle\\daemon\\8.10.2\\com.example.medicalcenter.app-main-35:\\drawable\\cprogressbar.png"
+    },
+    {
+        "merged": "C:\\Users\\Azamat\\.gradle\\daemon\\8.10.2\\com.example.medicalcenter.app-debug-33:\\drawable_check_me.xml.flat",
+        "source": "C:\\Users\\Azamat\\.gradle\\daemon\\8.10.2\\com.example.medicalcenter.app-main-35:\\drawable\\check_me.xml"
+    },
+    {
+        "merged": "C:\\Users\\Azamat\\.gradle\\daemon\\8.10.2\\com.example.medicalcenter.app-debug-33:\\drawable_lock.png.flat",
+        "source": "C:\\Users\\Azamat\\.gradle\\daemon\\8.10.2\\com.example.medicalcenter.app-main-35:\\drawable\\lock.png"
+    },
+    {
+        "merged": "C:\\Users\\Azamat\\.gradle\\daemon\\8.10.2\\com.example.medicalcenter.app-debug-33:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Azamat\\.gradle\\daemon\\8.10.2\\com.example.medicalcenter.app-main-35:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Azamat\\.gradle\\daemon\\8.10.2\\com.example.medicalcenter.app-debug-33:\\layout_activity_walk_through_screen2.xml.flat",
+        "source": "C:\\Users\\Azamat\\.gradle\\daemon\\8.10.2\\com.example.medicalcenter.app-main-35:\\layout\\activity_walk_through_screen2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Azamat\\.gradle\\daemon\\8.10.2\\com.example.medicalcenter.app-debug-33:\\drawable_logoapp.png.flat",
+        "source": "C:\\Users\\Azamat\\.gradle\\daemon\\8.10.2\\com.example.medicalcenter.app-main-35:\\drawable\\logoapp.png"
+    },
+    {
+        "merged": "C:\\Users\\Azamat\\.gradle\\daemon\\8.10.2\\com.example.medicalcenter.app-debug-33:\\layout-v28_activity_login_screen.xml.flat",
+        "source": "C:\\Users\\Azamat\\.gradle\\daemon\\8.10.2\\com.example.medicalcenter.app-main-35:\\layout-v28\\activity_login_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\Azamat\\.gradle\\daemon\\8.10.2\\com.example.medicalcenter.app-debug-33:\\drawable_email.png.flat",
+        "source": "C:\\Users\\Azamat\\.gradle\\daemon\\8.10.2\\com.example.medicalcenter.app-main-35:\\drawable\\email.png"
+    },
+    {
+        "merged": "C:\\Users\\Azamat\\.gradle\\daemon\\8.10.2\\com.example.medicalcenter.app-debug-33:\\drawable_ws2.png.flat",
+        "source": "C:\\Users\\Azamat\\.gradle\\daemon\\8.10.2\\com.example.medicalcenter.app-main-35:\\drawable\\ws2.png"
+    },
+    {
+        "merged": "C:\\Users\\Azamat\\.gradle\\daemon\\8.10.2\\com.example.medicalcenter.app-debug-33:\\drawable_welcome_bg.png.flat",
+        "source": "C:\\Users\\Azamat\\.gradle\\daemon\\8.10.2\\com.example.medicalcenter.app-main-35:\\drawable\\welcome_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\Azamat\\.gradle\\daemon\\8.10.2\\com.example.medicalcenter.app-debug-33:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Azamat\\.gradle\\daemon\\8.10.2\\com.example.medicalcenter.app-main-35:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Azamat\\.gradle\\daemon\\8.10.2\\com.example.medicalcenter.app-debug-33:\\drawable_walk_through_bg2.png.flat",
+        "source": "C:\\Users\\Azamat\\.gradle\\daemon\\8.10.2\\com.example.medicalcenter.app-main-35:\\drawable\\walk_through_bg2.png"
+    },
+    {
+        "merged": "C:\\Users\\Azamat\\.gradle\\daemon\\8.10.2\\com.example.medicalcenter.app-debug-33:\\anim_rotate_animation.xml.flat",
+        "source": "C:\\Users\\Azamat\\.gradle\\daemon\\8.10.2\\com.example.medicalcenter.app-main-35:\\anim\\rotate_animation.xml"
+    },
+    {
+        "merged": "C:\\Users\\Azamat\\.gradle\\daemon\\8.10.2\\com.example.medicalcenter.app-debug-33:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Azamat\\.gradle\\daemon\\8.10.2\\com.example.medicalcenter.app-main-35:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Azamat\\.gradle\\daemon\\8.10.2\\com.example.medicalcenter.app-debug-33:\\drawable_login_avatar.png.flat",
+        "source": "C:\\Users\\Azamat\\.gradle\\daemon\\8.10.2\\com.example.medicalcenter.app-main-35:\\drawable\\login_avatar.png"
+    },
+    {
+        "merged": "C:\\Users\\Azamat\\.gradle\\daemon\\8.10.2\\com.example.medicalcenter.app-debug-33:\\mipmap-xxxhdpi_logo.png.flat",
+        "source": "C:\\Users\\Azamat\\.gradle\\daemon\\8.10.2\\com.example.medicalcenter.app-main-35:\\mipmap-xxxhdpi\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Azamat\\.gradle\\daemon\\8.10.2\\com.example.medicalcenter.app-debug-33:\\drawable_lock_lite.png.flat",
+        "source": "C:\\Users\\Azamat\\.gradle\\daemon\\8.10.2\\com.example.medicalcenter.app-main-35:\\drawable\\lock_lite.png"
+    },
+    {
+        "merged": "C:\\Users\\Azamat\\.gradle\\daemon\\8.10.2\\com.example.medicalcenter.app-debug-33:\\font_urbanist.ttf.flat",
+        "source": "C:\\Users\\Azamat\\.gradle\\daemon\\8.10.2\\com.example.medicalcenter.app-main-35:\\font\\urbanist.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Azamat\\.gradle\\daemon\\8.10.2\\com.example.medicalcenter.app-debug-33:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Azamat\\.gradle\\daemon\\8.10.2\\com.example.medicalcenter.app-main-35:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Azamat\\.gradle\\daemon\\8.10.2\\com.example.medicalcenter.app-debug-33:\\layout_activity_sign_in_screen.xml.flat",
+        "source": "C:\\Users\\Azamat\\.gradle\\daemon\\8.10.2\\com.example.medicalcenter.app-main-35:\\layout\\activity_sign_in_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\Azamat\\.gradle\\daemon\\8.10.2\\com.example.medicalcenter.app-debug-33:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Azamat\\.gradle\\daemon\\8.10.2\\com.example.medicalcenter.app-main-35:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Azamat\\.gradle\\daemon\\8.10.2\\com.example.medicalcenter.app-debug-33:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Azamat\\.gradle\\daemon\\8.10.2\\com.example.medicalcenter.app-main-35:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Azamat\\.gradle\\daemon\\8.10.2\\com.example.medicalcenter.app-debug-33:\\mipmap-mdpi_logo.png.flat",
+        "source": "C:\\Users\\Azamat\\.gradle\\daemon\\8.10.2\\com.example.medicalcenter.app-main-35:\\mipmap-mdpi\\logo.png"
+    },
+    {
+        "merged": "com.example.medicalcenter.app-debug-33:/layout_activity_walk_through_screen2.xml.flat",
+        "source": "com.example.medicalcenter.app-main-35:/layout/activity_walk_through_screen2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Azamat\\.gradle\\daemon\\8.10.2\\com.example.medicalcenter.app-debug-33:\\layout_activity_walk_through_screen3.xml.flat",
+        "source": "C:\\Users\\Azamat\\.gradle\\daemon\\8.10.2\\com.example.medicalcenter.app-main-35:\\layout\\activity_walk_through_screen3.xml"
+    },
+    {
+        "merged": "C:\\Users\\Azamat\\.gradle\\daemon\\8.10.2\\com.example.medicalcenter.app-debug-33:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Azamat\\.gradle\\daemon\\8.10.2\\com.example.medicalcenter.app-main-35:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Azamat\\.gradle\\daemon\\8.10.2\\com.example.medicalcenter.app-debug-33:\\drawable_text3.png.flat",
+        "source": "C:\\Users\\Azamat\\.gradle\\daemon\\8.10.2\\com.example.medicalcenter.app-main-35:\\drawable\\text3.png"
+    },
+    {
+        "merged": "C:\\Users\\Azamat\\.gradle\\daemon\\8.10.2\\com.example.medicalcenter.app-debug-33:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Azamat\\.gradle\\daemon\\8.10.2\\com.example.medicalcenter.app-main-35:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Azamat\\.gradle\\daemon\\8.10.2\\com.example.medicalcenter.app-debug-33:\\layout_activity_create_account_screen.xml.flat",
+        "source": "C:\\Users\\Azamat\\.gradle\\daemon\\8.10.2\\com.example.medicalcenter.app-main-35:\\layout\\activity_create_account_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\Azamat\\.gradle\\daemon\\8.10.2\\com.example.medicalcenter.app-debug-33:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Azamat\\.gradle\\daemon\\8.10.2\\com.example.medicalcenter.app-main-35:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Azamat\\.gradle\\daemon\\8.10.2\\com.example.medicalcenter.app-debug-33:\\drawable_eye_lite.png.flat",
+        "source": "C:\\Users\\Azamat\\.gradle\\daemon\\8.10.2\\com.example.medicalcenter.app-main-35:\\drawable\\eye_lite.png"
+    },
+    {
+        "merged": "C:\\Users\\Azamat\\.gradle\\daemon\\8.10.2\\com.example.medicalcenter.app-debug-33:\\drawable_login_via_google.png.flat",
+        "source": "C:\\Users\\Azamat\\.gradle\\daemon\\8.10.2\\com.example.medicalcenter.app-main-35:\\drawable\\login_via_google.png"
+    },
+    {
+        "merged": "C:\\Users\\Azamat\\.gradle\\daemon\\8.10.2\\com.example.medicalcenter.app-debug-33:\\mipmap-xxhdpi_logo.png.flat",
+        "source": "C:\\Users\\Azamat\\.gradle\\daemon\\8.10.2\\com.example.medicalcenter.app-main-35:\\mipmap-xxhdpi\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Azamat\\.gradle\\daemon\\8.10.2\\com.example.medicalcenter.app-debug-33:\\drawable_walk_through_bg3.png.flat",
+        "source": "C:\\Users\\Azamat\\.gradle\\daemon\\8.10.2\\com.example.medicalcenter.app-main-35:\\drawable\\walk_through_bg3.png"
+    },
+    {
+        "merged": "C:\\Users\\Azamat\\.gradle\\daemon\\8.10.2\\com.example.medicalcenter.app-debug-33:\\layout_activity_login_screen.xml.flat",
+        "source": "C:\\Users\\Azamat\\.gradle\\daemon\\8.10.2\\com.example.medicalcenter.app-main-35:\\layout\\activity_login_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\Azamat\\.gradle\\daemon\\8.10.2\\com.example.medicalcenter.app-debug-33:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Azamat\\.gradle\\daemon\\8.10.2\\com.example.medicalcenter.app-main-35:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Azamat\\.gradle\\daemon\\8.10.2\\com.example.medicalcenter.app-debug-33:\\layout_activity_splash_screen.xml.flat",
+        "source": "C:\\Users\\Azamat\\.gradle\\daemon\\8.10.2\\com.example.medicalcenter.app-main-35:\\layout\\activity_splash_screen.xml"
+    }
+]
