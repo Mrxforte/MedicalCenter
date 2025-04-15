@@ -1,3 +1,0 @@
-com.example.medicalcenter.test
-style WhiteBackgroundDialogTheme
-style WhiteBackgroundTheme
